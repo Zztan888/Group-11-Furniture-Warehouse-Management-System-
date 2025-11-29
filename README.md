@@ -59,7 +59,7 @@ Group11-Furniture-System/
 Click the links below to navigate directly to the module folders:
 
 📦 Furniture Inventory Control Module
-./src/inventory_module
+[**./src/inventory_module**](./src/supplier_module)
 
 🚚 Supplier & Shipment Tracking Module
 [**supplier_module**](./src/supplier_module)
