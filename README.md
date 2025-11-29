@@ -55,20 +55,20 @@ Group11-Furniture-System/
 ## Requirements
 - Python 3.10 and above
 
-🔗 Quick Access to Source Code
+## 🔗 Quick Access to Source Code
 Click the links below to navigate directly to the module folders:
 
 📦 Furniture Inventory Control Module
 ### [**./src/inventory_module**](./src/supplier_module)
 
 🚚 Supplier & Shipment Tracking Module
-### [**supplier_module**](./src/supplier_module)
+### [**./src/supplier_module**](./src/supplier_module)
 
 🛒 Customer Order and Delivery Management Module
-### [**sales_module**](./src/sales_module)
+### [**./src/sales_module**](./src/sales_module)
 
 📊 Presentation Slides
-### [Presentation_Slides.pptx](./docs/Presentation_Slides.pptx)
+### [./docs/Presentation_Slides.pptx](./docs/Presentation_Slides.pptx)
 
 ## 👥 Contributors (Group 11)
 
