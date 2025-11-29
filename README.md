@@ -52,10 +52,26 @@ A comprehensive system for managing furniture inventory, supplier logistics, and
 ## Requirements
 - Python 3.10 and above
 
+🔗 Quick Access to Source Code
+Click the links below to navigate directly to the module folders:
+
+📦 Furniture Inventory Control Module
+[**inventory_module**](./src/inventory_module)
+
+🚚 Supplier & Shipment Tracking Module
+[**supplier_module**](./src/supplier_module)
+
+🛒 Customer Order and Delivery Management Module
+[**sales_module**](./src/sales_module)
+
+📊 Presentation Slides
+[Presentation_Slides.pptx](./docs/Presentation_Slides.pptx)
+
 ## 👥 Contributors (Group 11)
 
-| Name | Student ID | Module Responsibility |
-| :--- | :--- | :--- |
-| **Tee Kah Hock** | MEC245061 | Furniture Inventory Control Module |
-| **Tan Zin You** | MEC245007 | Supplier & Shipment Tracking Module |
-| **Lee Qi Hui** | MEC255018 | Customer Order and Delivery Management Module |
+| Group & Theme | Name & Student ID | Programming Language Initial Proposal Title | Individual Tree Data Structure|
+| :--- | :--- | :--- | :--- |
+Group 11 Furnitire Warehouse Management System
+| **Tee Kah Hock** | MEC245061 | Furniture Inventory Control Module | AVL
+| **Tan Zin You** | MEC245007 | Supplier & Shipment Tracking Module | B-Tree
+| **Lee Qi Hui** | MEC255018 | Customer Order and Delivery Management Module | Splay
