@@ -5,7 +5,7 @@
 ### - **Tan Zin You** (MEC245007)
 ### - **Lee Qi Hui** (MEC255018)
 
-## Project Description
+## 🛠️ Project Description
 A comprehensive system for managing furniture inventory, supplier logistics, and sales orders. This project implements efficient data structures (Binary Search Trees) to handle large datasets of furniture stock and shipments.
 
 ## 📂 Project Structure
@@ -52,9 +52,6 @@ Group11-Furniture-System/
 ### 🔹 Customer Order and Delivery Management Module
 - **Main Feature:** Processes customer orders and sales transactions.
 - **Data Structure:** Implements tree-based logic to sort and retrieve order history.
-
-## Requirements
-- Python 3.10 and above
 
 ## 🔗 Quick Access to Source Code
 Click the links below to navigate directly to the module folders:
