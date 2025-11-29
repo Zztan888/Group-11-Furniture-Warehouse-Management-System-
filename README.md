@@ -5,9 +5,11 @@
 ### - **Tan Zin You** (MEC245007)
 ### - **Lee Qi Hui** (MEC255018)
 
+## Project Description
 A comprehensive system for managing furniture inventory, supplier logistics, and sales orders. This project implements efficient data structures (Binary Search Trees) to handle large datasets of furniture stock and shipments.
 
 ## 📂 Project Structure
+This repository provides a complete template for Furniture Warehouse Management System
 
 ```text
 Group11-Furniture-System/
