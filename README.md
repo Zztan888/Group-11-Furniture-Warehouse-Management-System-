@@ -30,35 +30,29 @@ Group11-Furniture-System/
 ```
 
 ## Key Features
-1.  Furniture Inventory Control Module  
+1.Furniture Inventory Control Module
 Main Feature: Manages physical stock levels of furniture items.
-
 Functionality: extensive search and reporting on current inventory levels.
-
 Input: Processes raw CSV data into structured objects.
 
 2.Supplier & Shipment Tracking Module
 Main Feature: Tracks supplier details and shipment statuses.
-
 Data Structure: Binary Search Tree (BST) for efficient searching and insertion of supplier records (O(log n)).
-
 Data: Handles 30000 generated supplier and 50000 generated shipment records.
-
 Operations: Add Supplier, Search ID, Track Shipment Status.
 
 3. Customer Order and Delivery Management Module
 Main Feature: Processes customer orders and sales transactions.
-
 Data Structure: Implements tree-based logic to sort and retrieve order history.
-
 
 ## Requirements
 .Python 3.10 and above
 .pandas (pip install pandas)
 
-## Contributors (Group 11)
-Tee Kah Hock MEC245061- Furniture Inventory Control Module 
+## 👥 Contributors (Group 11)
 
-Tan Zin You MEC245007 - Supplier & Shipment Tracking Module
-
-Lee Qi Hui MEC255018 - Customer Order and Delivery Management Module
+| Name | Student ID | Module Responsibility |
+| :--- | :--- | :--- |
+| **Tee Kah Hock** | MEC245061 | Furniture Inventory Control Module |
+| **Tan Zin You** | MEC245007 | Supplier & Shipment Tracking Module |
+| **Lee Qi Hui** | MEC255018 | Customer Order and Delivery Management Module |
