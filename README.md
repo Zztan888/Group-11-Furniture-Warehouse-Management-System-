@@ -1,9 +1,9 @@
 # Furniture Warehouse Management System (Group 11)
 
 ## 👥 Contributors (Group 11 Members)
-*Tee Kah Hock (MEC245061)
-*Tan Zin You (MEC245007)
-*Lee Qi Hui (MEC255018)
+**Tee Kah Hock (MEC245061)
+**Tan Zin You (MEC245007)
+**Lee Qi Hui (MEC255018)
 
 A comprehensive system for managing furniture inventory, supplier logistics, and sales orders. This project implements efficient data structures (Binary Search Trees) to handle large datasets of furniture stock and shipments.
 
@@ -32,21 +32,22 @@ A comprehensive system for managing furniture inventory, supplier logistics, and
 ├── [.gitignore](./.gitignore)
 └── [README.md](./README.md)
 
-## Key Features
-1.Furniture Inventory Control Module
-Main Feature: Manages physical stock levels of furniture items.
-Functionality: extensive search and reporting on current inventory levels.
-Input: Processes raw CSV data into structured objects.
+## 🚀 Key Features
 
-2.Supplier & Shipment Tracking Module
-Main Feature: Tracks supplier details and shipment statuses.
-Data Structure: Binary Search Tree (BST) for efficient searching and insertion of supplier records (O(log n)).
-Data: Handles 30000 generated supplier and 50000 generated shipment records.
-Operations: Add Supplier, Search ID, Track Shipment Status.
+### 🔹 Furniture Inventory Control Module
+- **Main Feature:** Manages physical stock levels of furniture items.
+- **Functionality:** Extensive search and reporting on current inventory levels.
+- **Input:** Processes raw CSV data into structured objects.
 
-3. Customer Order and Delivery Management Module
-Main Feature: Processes customer orders and sales transactions.
-Data Structure: Implements tree-based logic to sort and retrieve order history.
+### 🔹 Supplier & Shipment Tracking Module
+- **Main Feature:** Tracks supplier details and shipment statuses.
+- **Data Structure:** **Binary Search Tree (BST)** for efficient searching and insertion (`O(log n)`).
+- **Data:** Handles 30,000 generated supplier and 50,000 shipment records.
+- **Operations:** Add Supplier, Search ID, Track Shipment Status.
+
+### 🔹 Customer Order and Delivery Management Module
+- **Main Feature:** Processes customer orders and sales transactions.
+- **Data Structure:** Implements tree-based logic to sort and retrieve order history.
 
 ## Requirements
 .Python 3.10 and above
