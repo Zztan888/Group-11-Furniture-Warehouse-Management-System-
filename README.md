@@ -60,7 +60,7 @@ Click the links below to navigate directly to the module folders:
 ### [**./src/inventory_module**](./src/supplier_module)
 
 🚚 Supplier & Shipment Tracking Module - **Tan Zin You** (MEC245007)
-### [**./src/supplier&shipment_tracking_module*](./src/supplier&shipment_tracking_module)
+### [**./src/supplier&shipment_tracking_module**](./src/supplier&shipment_tracking_module)
 
 🛒 Customer Order and Delivery Management Module - **Lee Qi Hui** (MEC255018)
 ### [**./src/sales_module**](./src/sales_module)
