@@ -1,38 +1,36 @@
 # Furniture Warehouse Management System (Group 11)
 
 ## 👥 Contributors (Group 11 Members)
-.|Tee Kah Hock (MEC245061)|
-.Tan Zin You (MEC245007)
-.Lee Qi Hui (MEC255018)
+*Tee Kah Hock (MEC245061)
+*Tan Zin You (MEC245007)
+*Lee Qi Hui (MEC255018)
 
 A comprehensive system for managing furniture inventory, supplier logistics, and sales orders. This project implements efficient data structures (Binary Search Trees) to handle large datasets of furniture stock and shipments.
 
-📂 Project Structure
-```
-Group11-Furniture-System/
-├── data/                        # Dataset storage
-│   ├── generated/               # Generated datasets (Suppliers, Shipments)
-│   └── inventory/               # Furniture inventory CSVs
+## 📂 Project Structure
+
+├── [**data**](./data)
+│   ├── [generated](./data/generated)
+│   └── [inventory](./data/inventory)
 │
-├── docs/                        # Project documentation
-│   └── Presentation_Slides.pptx # Task 2 Presentation
+├── [**docs**](./docs)
+│   └── [Presentation_Slides.pptx](./docs/Presentation_Slides.pptx)
 │
-├── src/                         # Source Code Modules
-│   ├── inventory_module/        # Inventory Management (KH)
-│   │   └── inventory_task2.py
+├── [**src**](./src)
+│   ├── [**inventory_module**](./src/inventory_module)
+│   │   └── [inventory_task2.py](./src/inventory_module/inventory_task2.py)
 │   │
-│   ├── sales_module/            # Sales & Order Processing (QH)
-│   │   ├── bst_order.py         # BST Implementation for Orders
-│   │   └── main_sales.py
+│   ├── [**sales_module**](./src/sales_module)
+│   │   ├── [bst_order.py](./src/sales_module/bst_order.py)
+│   │   └── [main_sales.py](./src/sales_module/main_sales.py)
 │   │
-│   └── supplier_module/         # Supplier & Shipment Tracking (ZY)
-│       ├── bst_implementation.py # BST Logic for Suppliers
-│       ├── generator.py         # Data Generation Script
-│       └── main_app.py          # Supplier CLI Application
+│   └── [**supplier_module**](./src/supplier_module)
+│       ├── [bst_implementation.py](./src/supplier_module/bst_implementation.py)
+│       ├── [generator.py](./src/supplier_module/generator.py)
+│       └── [main_app.py](./src/supplier_module/main_app.py)
 │
-├── .gitignore                   # Files to ignore (pycache, etc.)
-└── README.md                    # Project Documentation
-```
+├── [.gitignore](./.gitignore)
+└── [README.md](./README.md)
 
 ## Key Features
 1.Furniture Inventory Control Module
