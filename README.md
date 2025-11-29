@@ -1,5 +1,10 @@
 # Furniture Warehouse Management System (Group 11)
 
+## 👥 Contributors (Group 11 Members)
+.Tee Kah Hock (MEC245061)
+.Tan Zin You (MEC245007)
+.Lee Qi Hui (MEC255018)
+
 A comprehensive system for managing furniture inventory, supplier logistics, and sales orders. This project implements efficient data structures (Binary Search Trees) to handle large datasets of furniture stock and shipments.
 
 📂 Project Structure
