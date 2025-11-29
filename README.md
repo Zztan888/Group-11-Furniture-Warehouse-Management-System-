@@ -57,13 +57,13 @@ Group11-Furniture-System/
 ## 🔗 Quick Access to Source Code
 Click the links below to navigate directly to the module folders:
 
-📦 Furniture Inventory Control Module
+📦 Furniture Inventory Control Module -  **Tee Kah Hock** (MEC245061)
 ### [**./src/inventory_module**](./src/supplier_module)
 
-🚚 Supplier & Shipment Tracking Module
+🚚 Supplier & Shipment Tracking Module - **Tan Zin You** (MEC245007)
 ### [**./src/supplier_module**](./src/supplier_module)
 
-🛒 Customer Order and Delivery Management Module
+🛒 Customer Order and Delivery Management Module - **Lee Qi Hui** (MEC255018)
 ### [**./src/sales_module**](./src/sales_module)
 
 📊 Presentation Slides
