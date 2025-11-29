@@ -71,9 +71,27 @@ Click the links below to navigate directly to the module folders:
 
 ## Assignment Details
 
-| Group & Theme | Name & Student ID | Programming Language Initial Proposal Title | Individual Tree Data Structure|
-| :--- | :--- | :--- | :--- |
-Group 11 Furnitire Warehouse Management System
-| **Tee Kah Hock** | MEC245061 | Furniture Inventory Control Module | AVL
-| **Tan Zin You** | MEC245007 | Supplier & Shipment Tracking Module | B-Tree
-| **Lee Qi Hui** | MEC255018 | Customer Order and Delivery Management Module | Splay
+<table>
+  <tr>
+    <th>Group & Theme</th>
+    <th>Name & Student ID</th>
+    <th>Programming Language Initial Proposal Title</th>
+    <th>Individual Tree Data Structure</th>
+  </tr>
+  <tr>
+    <td rowspan="3"><b>Group 11</b><br>Furniture Warehouse Management System</td>
+    <td><b>Tee Kah Hock</b><br>MEC245061</td>
+    <td>Furniture Inventory Control Module</td>
+    <td>AVL</td>
+  </tr>
+  <tr>
+    <td><b>Tan Zin You</b><br>MEC245007</td>
+    <td>Supplier & Shipment Tracking Module</td>
+    <td>B-Tree</td>
+  </tr>
+  <tr>
+    <td><b>Lee Qi Hui</b><br>MEC255018</td>
+    <td>Customer Order and Delivery Management Module</td>
+    <td>Splay</td>
+  </tr>
+</table>
