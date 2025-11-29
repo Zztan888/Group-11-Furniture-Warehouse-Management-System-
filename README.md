@@ -1,7 +1,7 @@
 # Furniture Warehouse Management System (Group 11)
 
 ## 👥 Contributors (Group 11 Members)
-.Tee Kah Hock (MEC245061)
+.|Tee Kah Hock (MEC245061)|
 .Tan Zin You (MEC245007)
 .Lee Qi Hui (MEC255018)
 
