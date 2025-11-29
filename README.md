@@ -3,7 +3,7 @@
 A comprehensive system for managing furniture inventory, supplier logistics, and sales orders. This project implements efficient data structures (Binary Search Trees) to handle large datasets of furniture stock and shipments.
 
 📂 Project Structure
-
+```
 Group11-Furniture-System/
 ├── data/                        # Dataset storage
 │   ├── generated/               # Generated datasets (Suppliers, Shipments)
@@ -27,8 +27,9 @@ Group11-Furniture-System/
 │
 ├── .gitignore                   # Files to ignore (pycache, etc.)
 └── README.md                    # Project Documentation
+```
 
-Key Features
+## Key Features
 1.  Furniture Inventory Control Module  
 Main Feature: Manages physical stock levels of furniture items.
 
@@ -51,16 +52,11 @@ Main Feature: Processes customer orders and sales transactions.
 Data Structure: Implements tree-based logic to sort and retrieve order history.
 
 
-Module,Main Feature,Data Structure,Data Scale
-Furniture Inventory Control,"Manages physical stock levels, extensive search, and reporting on current inventory.",List/Objects,Processed from CSV
-Supplier & Shipment Tracking,Tracks supplier details and shipment statuses with efficient ID search.,Binary Search Tree (BST)Complexity: O(logn),"30,000 Suppliers50,000 Shipments"
-Customer Order & Delivery,"Processes customer orders, sales transactions, and delivery history.",Tree-based logic,Transaction History
-
-Requirements
+## Requirements
 .Python 3.10 and above
 .pandas (pip install pandas)
 
--Contributors (Group 11)
+## Contributors (Group 11)
 Tee Kah Hock MEC245061- Furniture Inventory Control Module 
 
 Tan Zin You MEC245007 - Supplier & Shipment Tracking Module
