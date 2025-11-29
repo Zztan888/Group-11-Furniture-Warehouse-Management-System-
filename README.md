@@ -68,6 +68,9 @@ Click the links below to navigate directly to the module folders:
 ## 📊 Presentation Slides
 ### [./docs/Presentation_Slides.pptx](./docs/Presentation_Slides.pptx)
 
+## 🎥 Presentation Video
+[![Watch the Video](https://img.youtube.com/vi/MP7wGnQnlGA/0.jpg)](https://youtu.be/MP7wGnQnlGA)
+
 ## Assignment Details
 
 <table>
