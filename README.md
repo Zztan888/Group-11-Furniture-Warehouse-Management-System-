@@ -31,7 +31,6 @@ Group11-Furniture-System/
 │       ├── generator.py         # Data Generation Script
 │       └── main_app.py          # Supplier CLI Application
 │
-├── .gitignore                   # Files to ignore (pycache, etc.)
 └── README.md                    # Project Documentation
 ```
 
@@ -70,7 +69,7 @@ Click the links below to navigate directly to the module folders:
 📊 Presentation Slides
 ### [./docs/Presentation_Slides.pptx](./docs/Presentation_Slides.pptx)
 
-## 👥 Contributors (Group 11)
+## Assignment Details
 
 | Group & Theme | Name & Student ID | Programming Language Initial Proposal Title | Individual Tree Data Structure|
 | :--- | :--- | :--- | :--- |
