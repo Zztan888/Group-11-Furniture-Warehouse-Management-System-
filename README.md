@@ -13,25 +13,25 @@ This repository provides a complete template for Furniture Warehouse Management 
 
 ```text
 Group11-Furniture-System/
-├── data/                        # Dataset storage
-│   ├── generated/               # Generated datasets (Suppliers, Shipments)
-│   └── inventory/               # Furniture inventory CSVs
+├── data/                                    # Dataset storage
+│   ├── generated/                           # Generated datasets (Suppliers, Shipments)
+│   └── inventory/                           # Furniture inventory CSVs
 │
-├── docs/                        # Project documentation
-│   └── Presentation_Slides.pptx # Task 2 Presentation
+├── docs/                                    # Project documentation
+│   └── Presentation_Slides.pptx             # Task 2 Presentation
 │
-├── src/                         # Source Code Modules
-│   ├── inventory_module/        # Inventory Management (KH)
+├── src/                                     # Source Code Modules
+│   ├── inventory_module/                    # Inventory Management (KH)
 │   │   └── inventory_task2.py
 │   │
-│   ├── sales_module/            # Sales & Order Processing (QH)
-│   │   ├── bst_order.py         # BST Implementation for Orders
+│   ├── sales_module/                        # Sales & Order Processing (QH)
+│   │   ├── bst_order.py                     # BST Implementation for Orders
 │   │   └── main_sales.py
 │   │
-│   └── supplier_module/         # Supplier & Shipment Tracking (ZY)
-│       ├── bst_implementation.py # BST Logic for Suppliers
-│       ├── generator.py         # Data Generation Script
-│       └── main_app.py          # Supplier CLI Application
+│   └── supplier&shipment_tracking_module/   # Supplier & Shipment Tracking (ZY)
+│       ├── bst_implementation.py            # BST Logic for Suppliers
+│       ├── generator.py                     # Data Generation Script
+│       └── main_app.py                      # Supplier CLI Application
 │
 └── README.md                    # Project Documentation
 ```
@@ -60,7 +60,7 @@ Click the links below to navigate directly to the module folders:
 ### [**./src/inventory_module**](./src/supplier_module)
 
 🚚 Supplier & Shipment Tracking Module - **Tan Zin You** (MEC245007)
-### [**./src/supplier_module**](./src/supplier_module)
+### [**./src/supplier&shipment_tracking_module*](./src/supplier&shipment_tracking_module)
 
 🛒 Customer Order and Delivery Management Module - **Lee Qi Hui** (MEC255018)
 ### [**./src/sales_module**](./src/sales_module)
